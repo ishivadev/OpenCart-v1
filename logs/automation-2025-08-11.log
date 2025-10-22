@@ -1,0 +1,102 @@
+23:02:34.728 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:02:34.750 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:02:35.015 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:02:35.546 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:05:53.900 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:05:53.917 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:05:54.137 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:05:54.827 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:07:31.430 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:07:31.454 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:07:31.678 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:07:32.223 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:07:34.025 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:52)oggger - Test failed..
+23:07:34.025 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)oggger - Debbuger statement..
+23:12:55.577 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:12:55.592 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:12:55.660 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:12:56.214 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:12:57.736 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:54)oggger - Test failed
+java.lang.AssertionError: Account creation failed: Your Account Has Been Created!
+	at testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+23:12:57.739 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:55)oggger - Debbuger statement..
+23:18:08.669 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:18:08.685 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:18:08.752 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:18:09.331 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:18:10.735 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)oggger - Test failed..
+23:18:10.735 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:54)oggger - Debbuger statement..
+23:18:16.691 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:18:16.695 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:18:16.919 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:18:17.432 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:18:18.954 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)oggger - Test failed..
+23:18:18.954 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:54)oggger - Debbuger statement..
+23:21:32.144 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:21:32.177 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:21:32.247 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:21:32.893 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:21:34.455 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)oggger - Test failed..
+23:21:34.455 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:54)oggger - Debbuger statement..
+23:21:41.421 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:21:41.426 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:21:41.569 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:21:42.173 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:21:43.758 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)oggger - Test failed..
+23:21:43.758 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:54)oggger - Debbuger statement..
+23:21:51.802 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:21:51.802 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:21:51.964 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:21:52.569 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:21:53.826 [main] ERROR testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:53)oggger - Test failed..
+23:21:53.827 [main] DEBUG testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:54)oggger - Debbuger statement..
+23:23:31.559 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:23:31.625 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:23:31.924 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:23:32.506 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:23:32.878 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:23:32.879 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:23:33.471 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:23:34.071 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:23:36.327 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:47)oggger - Account creation successful
+23:23:36.336 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:65)oggger - **** Finished TC001_AccountRegistration ****
+23:23:38.012 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:47)oggger - Account creation successful
+23:23:38.012 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:65)oggger - **** Finished TC001_AccountRegistration ****
+23:23:38.252 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:23:38.255 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:23:38.541 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:23:39.156 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:23:40.969 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:47)oggger - Account creation successful
+23:23:40.969 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:65)oggger - **** Finished TC001_AccountRegistration ****
+23:30:27.475 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:16)oggger - **** Starting TC001_AccountRegistration ****
+23:30:27.497 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:21)oggger - Clicked on 'My Account'
+23:30:27.651 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:23)oggger - Clicked on 'Register Account'
+23:30:28.217 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:30)oggger - Providing the User Details
+23:30:30.220 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:47)oggger - Account creation successful
+23:30:30.222 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:65)oggger - **** Finished TC001_AccountRegistration ****

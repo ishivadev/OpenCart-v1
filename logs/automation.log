@@ -1,0 +1,40 @@
+13:22:52.487 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\Automation\OpenCart_V1\master.xml"
+13:22:52.714 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCart_V1\master.xml
+
+13:23:01.244 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:17)oggger - **** Starting TC001_AccountRegistration ****
+13:23:01.264 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:22)oggger - Clicked on 'My Account'
+13:23:01.492 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:24)oggger - Clicked on 'Register Account'
+13:23:02.669 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:31)oggger - Providing the User Details
+13:23:04.864 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:48)oggger - Account creation successful
+13:23:04.866 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:66)oggger - **** Finished TC001_AccountRegistration ****
+13:23:47.191 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\Automation\OpenCart_V1\crossBrowserTesting.xml"
+13:23:47.513 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCart_V1\crossBrowserTesting.xml
+
+13:23:52.957 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:17)oggger - **** Starting TC001_AccountRegistration ****
+13:23:52.994 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:22)oggger - Clicked on 'My Account'
+13:23:53.275 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:17)oggger - **** Starting TC001_AccountRegistration ****
+13:23:53.275 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:22)oggger - Clicked on 'My Account'
+13:23:53.602 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:24)oggger - Clicked on 'Register Account'
+13:23:53.695 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:24)oggger - Clicked on 'Register Account'
+13:26:15.156 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\Automation\OpenCart_V1\grouping.xml"
+13:26:15.408 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCart_V1\grouping.xml
+
+13:26:20.067 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:17)oggger - **** Starting TC001_AccountRegistration ****
+13:26:20.080 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:22)oggger - Clicked on 'My Account'
+13:26:20.274 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:24)oggger - Clicked on 'Register Account'
+13:26:21.254 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:31)oggger - Providing the User Details
+13:26:23.718 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:48)oggger - Account creation successful
+13:26:23.722 [main] INFO  testCases.TC001_AccountRegistration.RegisterUser(TC001_AccountRegistration.java:66)oggger - **** Finished TC001_AccountRegistration ****
+13:27:45.422 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\Automation\OpenCart_V1\grouping.xml"
+13:27:45.642 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCart_V1\grouping.xml
+
+13:27:49.637 [main] INFO  testCases.TC001_AccountRegistration.registerUser(TC001_AccountRegistration.java:17)oggger - **** Starting TC001_AccountRegistration ****
+13:27:49.646 [main] INFO  testCases.TC001_AccountRegistration.registerUser(TC001_AccountRegistration.java:22)oggger - Clicked on 'My Account'
+13:27:49.741 [main] INFO  testCases.TC001_AccountRegistration.registerUser(TC001_AccountRegistration.java:24)oggger - Clicked on 'Register Account'
+13:27:50.386 [main] INFO  testCases.TC001_AccountRegistration.registerUser(TC001_AccountRegistration.java:31)oggger - Providing the User Details
+13:27:52.205 [main] INFO  testCases.TC001_AccountRegistration.registerUser(TC001_AccountRegistration.java:48)oggger - Account creation successful
+13:27:52.207 [main] INFO  testCases.TC001_AccountRegistration.registerUser(TC001_AccountRegistration.java:66)oggger - **** Finished TC001_AccountRegistration ****
